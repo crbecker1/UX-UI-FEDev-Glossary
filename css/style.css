@@ -8,8 +8,12 @@
   }
 
 .titleCase {font-family: 'Roboto Slab', serif;
-    font-weight: 500;
-    color: aqua;}
+    font-weight: 700;
+    color: rgb(60, 91, 101);}
+
+h2 {font-family: 'Roboto Slab', serif;
+        font-weight: 300;
+        color: grey;}
 
 h3 {font-family: 'Roboto Slab', serif;
         font-weight: 400;}
