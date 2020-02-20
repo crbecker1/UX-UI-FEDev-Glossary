@@ -7,9 +7,16 @@
 
   }
 
+.header {background-color: ivory;
+         display: flex;
+         padding-left, padding-right: 20%;
+         height: 200px;}
+
 .titleCase {font-family: 'Roboto Slab', serif;
     font-weight: 700;
-    color: rgb(60, 91, 101);}
+    color: rgb(60, 91, 101);
+    padding-left: 5%;
+    padding-top: 50 px;}
 
 h2 {font-family: 'Roboto Slab', serif;
         font-weight: 300;
